@@ -10,17 +10,15 @@ Use the course virtual environment (`.venv`) that you already set up. Do not cre
 
 ## Complete the lab
 
-1. Accept the Week 5 lab in classroom50.
-2. Copy the repository HTTPS URL and clone it into your main course folder.
-3. Open the cloned repository in VS Code.
-4. Open `Week_05_Lab.ipynb`.
-5. Select the Python kernel from your existing course `.venv`.
-6. Complete every cell marked **TODO**.
-7. Run the notebook from beginning to end.
-8. Confirm that the final cell prints `All lab checks passed.`
-9. Answer all interpretation and reflection questions in complete sentences.
-10. Save, commit, and push your work.
-11. Verify on GitHub that the completed notebook appears in your repository.
+1. Open `Week_05_Lab.ipynb`.
+2. Complete every cell marked **TODO**.
+3. Run the notebook from beginning to end.
+4. DO NOT clear the outputs from your notebook after you run it.
+5. Confirm that the final cell prints `All lab checks passed.`
+6. Answer all interpretation and reflection questions in complete sentences.
+7. Save, commit, and push your work.
+8. Verify on GitHub that the completed notebook appears in your repository.
+9. Submit the link to your GitHub repo to Blackboard
 
 ## Files
 
